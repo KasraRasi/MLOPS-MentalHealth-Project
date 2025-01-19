@@ -1,0 +1,294 @@
+[
+  {
+    "id": "1aa5eb60-d166-418b-8ce9-dde9488529ec",
+    "data": [
+      {
+        "text": "I\u0027m constantly on edge and experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "persistent anxiety",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4abce44a-cc08-4e10-913d-c1ab95fb6344",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "overstimulated",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and have an ",
+        "userDefined": false
+      },
+      {
+        "text": "exaggerated startle response",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83bd410a-198b-43bf-8f00-c2c1c9232598",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "hypervigilance",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "heightened alertness",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33db02e-f112-4a6d-b6b4-5ef7feb01ebc",
+    "data": [
+      {
+        "text": "I\u0027ve been isolating myself and ",
+        "userDefined": false
+      },
+      {
+        "text": "evading triggers",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " associated with the trauma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2a5da09-c636-4377-8a48-3ae882b1b092",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "avoiding",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " situations or triggers that remind me of the trauma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f44083b-fc67-45f3-90a5-534a09b3e96c",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "sleep disturbances",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "vivid nightmares",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea30be9d-27de-4991-925d-34b67ea79382",
+    "data": [
+      {
+        "text": "I\u0027m having ",
+        "userDefined": false
+      },
+      {
+        "text": "disturbing dreams",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "night terrors",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "665ca5f2-160e-490f-9a22-83227411f12f",
+    "data": [
+      {
+        "text": "I\u0027m having ",
+        "userDefined": false
+      },
+      {
+        "text": "nightmares",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " about the traumatic event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5ae0f56-054d-4474-b6af-7c38aafe50fa",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "distressing memories",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " related to the trauma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c7de9b7-a8b3-4a0b-a8d4-068be64724de",
+    "data": [
+      {
+        "text": "I\u0027m having ",
+        "userDefined": false
+      },
+      {
+        "text": "recurrent recollections",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " of the traumatic event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e2bee2a-39a6-4ce8-96e2-ade0da85c53e",
+    "data": [
+      {
+        "text": "I keep reliving the trauma through ",
+        "userDefined": false
+      },
+      {
+        "text": "intrusive memories",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3465a3c-a3b1-4bc2-b7d9-1e72c3765aed",
+    "data": [
+      {
+        "text": "I\u0027ve been experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "flashbacks",
+        "meta": "@PTSD_Symptoms",
+        "alias": "ptsd_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " of the traumatic event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

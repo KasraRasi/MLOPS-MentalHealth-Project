@@ -1,0 +1,56 @@
+{
+  "id": "2d207904-0ac3-4210-ba28-fdd1d8235c25",
+  "name": "Detect_ADHD_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c29255fb-83bb-410b-b426-07f340b7ff4d",
+          "name": "ADHD_Symptom",
+          "required": true,
+          "dataType": "@ADHD_Symptom",
+          "value": "$ADHD_Symptom",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Have you noticed any other symptoms or challenges?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you might be experiencing symptoms associated with ADHD. It\u0027s important to acknowledge these feelings and explore strategies to manage them. Have you noticed any other symptoms or challenges?",
+            "Thank you for sharing. It sounds like you\u0027re facing some challenges that are common in individuals with ADHD. Remember, you\u0027re not alone, and there are strategies and support available to help you cope with these symptoms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

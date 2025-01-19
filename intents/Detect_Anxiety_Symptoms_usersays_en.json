@@ -1,0 +1,220 @@
+[
+  {
+    "id": "f7eeefd7-8dd9-4478-835b-313697fa4669",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "heart flutters uncontrollably",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " sometimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e408467c-3f89-4a03-beac-15c5175da0af",
+    "data": [
+      {
+        "text": "I\u0027ve noticed my ",
+        "userDefined": false
+      },
+      {
+        "text": "heart pounding",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " rapidly in certain situations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ad43820-f9b8-4810-af32-dd6390f7993d",
+    "data": [
+      {
+        "text": "\"I experience ",
+        "userDefined": false
+      },
+      {
+        "text": "rapid heartbeat",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " quite frequently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf669a14-e18b-41dc-8aa7-0475bd7cfe73",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "heart races uncontrollably",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " at times",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a843fb-eaf9-4dfb-8512-0edb5d19a966",
+    "data": [
+      {
+        "text": "I suddenly feel ",
+        "userDefined": false
+      },
+      {
+        "text": "intense fear episodes",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " out of nowhere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15884750-3107-46a2-a7df-1abea3617806",
+    "data": [
+      {
+        "text": "I\u0027ve been having ",
+        "userDefined": false
+      },
+      {
+        "text": "panic attacks",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f258c757-3e5e-4d9e-8223-bf372b4879cc",
+    "data": [
+      {
+        "text": "I feel like I\u0027m always on edge, with ",
+        "userDefined": false
+      },
+      {
+        "text": "no control over my apprehension",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aeb4b3b-4c32-4eae-a376-4af67fcab962",
+    "data": [
+      {
+        "text": "I\u0027m overwhelmed by ",
+        "userDefined": false
+      },
+      {
+        "text": "persistent concerns",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2021684-01f1-4716-be00-7a1b7607bdec",
+    "data": [
+      {
+        "text": "I can\u0027t seem to shake off these ",
+        "userDefined": false
+      },
+      {
+        "text": "anxious thoughts",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ea79e14-39fd-4cb1-ac9b-475feb7f7cc4",
+    "data": [
+      {
+        "text": "I\u0027ve been experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "constant worrying",
+        "meta": "@Anxiety_symptoms",
+        "alias": "anxiety_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

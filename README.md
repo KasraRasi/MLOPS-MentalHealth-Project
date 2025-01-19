@@ -1,2 +1,2 @@
-# MLOPS-MentalHealth-Project
-This MLOPS  Project is to help individuals with probebility of mental health problem base on thier public posts on reddit
+# MentalHealth
+ This project it can use to detect individuals with mental health problems base on the public posts on reddit

@@ -1,0 +1,50 @@
+{
+  "id": "6cefe467-8372-4e05-8624-65674f8e34a1",
+  "name": "Detect_AutismSpectrumDis_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf4129d1-7eff-4965-aa18-2ec308c63acb",
+          "name": "AutismSpectrumDis_Symptoms",
+          "required": false,
+          "dataType": "@AutismSpectrumDis_Symptoms",
+          "value": "$AutismSpectrumDis_Symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you might be experiencing symptoms associated with Autism Spectrum Disorder (ASD). ASD can manifest in various ways, including social difficulties, communication challenges, repetitive behaviors, and sensory sensitivities. It\u0027s important to seek professional evaluation and support to better understand and manage these symptoms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "64beaeef-1623-428d-bbcd-9233c74693b6",
+  "name": "Detect_Addiction_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "895ede32-071a-41e2-93e0-8879c77e64f2",
+          "name": "addiction_symptom",
+          "required": true,
+          "dataType": "@Addiction_symptom",
+          "value": "$addiction_symptom",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please describe any symptoms or experiences you\u0027re having."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry to hear that you\u0027re experiencing intense $addiction_symptom. It sounds like you\u0027re struggling with addiction symptoms. It\u0027s important to acknowledge these feelings. Remember, you\u0027re not alone. Have you noticed any other symptoms besides $addiction_symptom?",
+            "$addiction_symptom can feel overwhelming, but it\u0027s important to know that they will pass. You\u0027re showing strength by acknowledging them. Try to engage in activities that distract you and bring you joy. Remember, it\u0027s okay to ask for help and lean on your support system during difficult moments."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "03d6225f-4634-40c8-aefb-b19177b2763b",
+  "name": "ADHD_Symptom",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

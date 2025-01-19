@@ -1,0 +1,276 @@
+[
+  {
+    "id": "3dd305c3-9d68-4aeb-9d55-2d269d53be74",
+    "data": [
+      {
+        "text": "I have trouble keeping my thoughts coherent, like ",
+        "userDefined": false
+      },
+      {
+        "text": "incoherent speech",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa55dcde-a6c2-45e0-8683-96781f0e6e23",
+    "data": [
+      {
+        "text": "My thoughts are disorganized, like ",
+        "userDefined": false
+      },
+      {
+        "text": "thought disorder",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fad93929-b17e-4676-8d6b-dddd6b0ae4aa",
+    "data": [
+      {
+        "text": "I believe I\u0027m being manipulated by external forces, like ",
+        "userDefined": false
+      },
+      {
+        "text": "delusions of control",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8840769-6753-4520-8c4b-f730a1bae3e9",
+    "data": [
+      {
+        "text": "I interpret ordinary events as having special significance, like ",
+        "userDefined": false
+      },
+      {
+        "text": "delusions of reference",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "061a7617-98cc-4adf-b820-83d3e26e2394",
+    "data": [
+      {
+        "text": "I think my body is being controlled by external forces, like ",
+        "userDefined": false
+      },
+      {
+        "text": "somatic delusions",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "985cae9c-a591-4152-931e-7fda1b07cc96",
+    "data": [
+      {
+        "text": "I feel like someone is plotting against me, like ",
+        "userDefined": false
+      },
+      {
+        "text": "persecutory delusions",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31985681-9ebf-4cc2-9555-e11a89ec4e62",
+    "data": [
+      {
+        "text": "I believe I have special powers, like ",
+        "userDefined": false
+      },
+      {
+        "text": "grandiose delusions",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f5526b9-dfe4-4bc6-9669-fcdea8d58c63",
+    "data": [
+      {
+        "text": "I\u0027ve been having ",
+        "userDefined": false
+      },
+      {
+        "text": "paranoid delusions",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " about people following me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20790350-ccd5-4fb5-8d01-dc7beb400a5e",
+    "data": [
+      {
+        "text": "My senses feel distorted, like ",
+        "userDefined": false
+      },
+      {
+        "text": "sensory distortions",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da55afe-635d-48ea-8d34-6c4096a5b365",
+    "data": [
+      {
+        "text": "I\u0027m experiencing strange tastes in my mouth, like ",
+        "userDefined": false
+      },
+      {
+        "text": "gustatory hallucinations",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f3a8275-409d-472d-ad81-2a111231f4f3",
+    "data": [
+      {
+        "text": "I\u0027ve been smelling things that others can\u0027t, like ",
+        "userDefined": false
+      },
+      {
+        "text": "olfactory hallucinations",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04fbfdce-4d40-4efa-9ee9-462b1181fab3",
+    "data": [
+      {
+        "text": "I feel sensations on my skin that aren\u0027t real, like ",
+        "userDefined": false
+      },
+      {
+        "text": "tactile hallucinations",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93b47825-ecb3-48eb-8017-7c93af4d6521",
+    "data": [
+      {
+        "text": "I\u0027m seeing things that aren\u0027t there, like ",
+        "userDefined": false
+      },
+      {
+        "text": "visual hallucinations",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fb1709e-a147-41f3-ab21-cf67d87af3e8",
+    "data": [
+      {
+        "text": "I\u0027ve been experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "auditory hallucinations",
+        "meta": "@Schizophrenia_Symptoms",
+        "alias": "schizophrenia_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "5a208364-90a8-4391-88f0-22882eb9d901",
+  "name": "PTSD_Symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "5b4aa991-d6c8-4eba-afc4-e6c270315494",
+  "name": "Addiction_symptom",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

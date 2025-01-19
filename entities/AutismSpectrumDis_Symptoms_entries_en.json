@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Social difficulties",
+    "synonyms": [
+      "Social difficulties",
+      "Difficulty with social interaction",
+      "Social awkwardness",
+      "Trouble understanding social cues",
+      "Challenges in making and maintaining friendships",
+      "Difficulty in interpreting facial expressions and body language",
+      "Feeling uncomfortable in social situations"
+    ]
+  },
+  {
+    "value": "Communication challenges",
+    "synonyms": [
+      "Communication challenges",
+      "Difficulty with verbal communication",
+      "Limited speech or language skills",
+      "Trouble expressing thoughts and feelings verbally",
+      "Difficulty understanding spoken language",
+      "Challenges with nonverbal communication such as gestures and facial expressions"
+    ]
+  },
+  {
+    "value": "Repetitive behaviors",
+    "synonyms": [
+      "Repetitive behaviors",
+      "Stereotyped or repetitive movements (e.g., hand flapping, rocking)",
+      "Insistence on sameness or routines",
+      "Fixated interests or obsessions",
+      "Need for things to be done in a specific order or pattern",
+      "Repetitive speech or echolalia"
+    ]
+  },
+  {
+    "value": "Sensory sensitivities",
+    "synonyms": [
+      "Sensory sensitivities",
+      "Hypersensitivity to sensory stimuli (e.g., noise, lights, textures)",
+      "Overwhelmed by certain sensory inputs",
+      "Difficulty filtering sensory information",
+      "Sensory-seeking behaviors (e.g., seeking out certain textures or sensory experiences)",
+      "Discomfort or distress in sensory-rich environments"
+    ]
+  }
+]

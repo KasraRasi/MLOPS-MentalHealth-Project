@@ -1,0 +1,53 @@
+[
+  {
+    "value": "Inattention",
+    "synonyms": [
+      "Inattention",
+      "Easily distracted",
+      "Difficulty concentrating",
+      "Mind wandering"
+    ]
+  },
+  {
+    "value": "Hyperactivity",
+    "synonyms": [
+      "Hyperactivity",
+      "Restlessness",
+      "Excessive movement",
+      "Fidgeting",
+      "Inability to sit still",
+      "Restless behavior",
+      "Constant motion",
+      "Always on the go",
+      "Excessive energy",
+      "Overactive"
+    ]
+  },
+  {
+    "value": "Impulsivity",
+    "synonyms": [
+      "Impulsivity",
+      "Acting without thinking",
+      "Lack of impulse control",
+      "Rash decision-making",
+      "Acting on impulse",
+      "Impetuous behavior",
+      "Acting recklessly",
+      "Difficulty delaying gratification"
+    ]
+  },
+  {
+    "value": "Difficulty focusing",
+    "synonyms": [
+      "Difficulty focusing",
+      "Inattention",
+      "Distractibility",
+      "Mind wandering",
+      "Lack of concentration",
+      "Trouble staying focused",
+      "Short attention span",
+      "Easily distracted",
+      "Difficulty maintaining attention"
+    ]
+  }
+]

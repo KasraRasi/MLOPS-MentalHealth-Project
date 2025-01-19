@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Excessive worry",
+    "synonyms": [
+      "Excessive worry",
+      "Constant worrying",
+      "Anxious thoughts",
+      "Persistent concerns",
+      "Obsessive worrying",
+      "Uncontrollable apprehension"
+    ]
+  },
+  {
+    "value": "Panic attacks",
+    "synonyms": [
+      "Panic attacks",
+      "Anxiety attacks",
+      "Sudden overwhelming fear",
+      "Intense fear episodes",
+      "Panic episodes",
+      "Paroxysms of anxiety",
+      "Sudden onset of terror",
+      "Rapid onset of panic"
+    ]
+  },
+  {
+    "value": "Rapid heartbeat",
+    "synonyms": [
+      "Rapid heartbeat",
+      "Tachycardia",
+      "Racing heart",
+      "Heart pounding",
+      "Accelerated heartbeat",
+      "Fluttering heart"
+    ]
+  }
+]

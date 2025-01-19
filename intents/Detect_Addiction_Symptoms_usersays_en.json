@@ -1,0 +1,117 @@
+[
+  {
+    "id": "0f56ce13-a56a-4253-a54b-58fd5ad1ba95",
+    "data": [
+      {
+        "text": "I\u0027ve been having these intense ",
+        "userDefined": false
+      },
+      {
+        "text": "cravings",
+        "meta": "@Addiction_symptom",
+        "alias": "addiction_symptom",
+        "userDefined": false
+      },
+      {
+        "text": " for alcohol, and I just can\u0027t seem to control them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "749c5471-9c42-47d7-8f30-c4fe7e9b23cf",
+    "data": [
+      {
+        "text": "I\u0027m engaging in ",
+        "userDefined": false
+      },
+      {
+        "text": "compulsive behavior",
+        "meta": "@Addiction_symptom",
+        "alias": "addiction_symptom",
+        "userDefined": false
+      },
+      {
+        "text": " related to my addiction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3df1e3d-862c-4dcf-900d-a604cad5001d",
+    "data": [
+      {
+        "text": "I can\u0027t control my ",
+        "userDefined": false
+      },
+      {
+        "text": "cravings",
+        "meta": "@Addiction_symptom",
+        "alias": "addiction_symptom",
+        "userDefined": false
+      },
+      {
+        "text": " anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "006ea543-7286-4b04-93ef-86b67c9962c6",
+    "data": [
+      {
+        "text": "I have developed a ",
+        "userDefined": false
+      },
+      {
+        "text": "tolerance",
+        "meta": "@Addiction_symptom",
+        "alias": "addiction_symptom",
+        "userDefined": false
+      },
+      {
+        "text": " to the substance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "988400a2-a792-48b9-8b60-c7833b7aaa9b",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "withdrawal",
+        "meta": "@Addiction_symptom",
+        "alias": "addiction_symptom",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "dc6ad461-47c5-4ee5-ab51-c6d88e0d8674",
+  "name": "Schizophrenia_Symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

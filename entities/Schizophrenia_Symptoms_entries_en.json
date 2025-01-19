@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Hallucinations",
+    "synonyms": [
+      "Hallucinations",
+      "Auditory hallucinations",
+      "Visual hallucinations",
+      "Tactile hallucinations",
+      "Olfactory hallucinations",
+      "Gustatory hallucinations",
+      "Sensory distortions"
+    ]
+  },
+  {
+    "value": "Delusions",
+    "synonyms": [
+      "Delusions",
+      "Paranoid delusions",
+      "Grandiose delusions",
+      "Persecutory delusions",
+      "Somatic delusions",
+      "Delusions of reference",
+      "Delusions of control"
+    ]
+  },
+  {
+    "value": "Disorganized thinking",
+    "synonyms": [
+      "Disorganized thinking",
+      "Thought disorder",
+      "Loosening of associations",
+      "Tangential thinking",
+      "Flight of ideas",
+      "Incoherent speech"
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "id": "fab351aa-5291-4d69-a1af-6771ef66def9",
+    "data": [
+      {
+        "text": "I experience ",
+        "userDefined": false
+      },
+      {
+        "text": "discomfort or distress in sensory-rich environments",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47956a67-c5c8-4687-b1eb-f4bb421c9f94",
+    "data": [
+      {
+        "text": "I feel overwhelmed by ",
+        "userDefined": false
+      },
+      {
+        "text": "sensory stimuli",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " like noise and lights.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4faec8f8-e58c-47df-ae60-be417e22b999",
+    "data": [
+      {
+        "text": "I often ",
+        "userDefined": false
+      },
+      {
+        "text": "seek out certain textures",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "sensory experiences",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ac0f66a-ee4e-4979-a33f-de09a3df5e89",
+    "data": [
+      {
+        "text": "I engage in ",
+        "userDefined": false
+      },
+      {
+        "text": "repetitive movements",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " like ",
+        "userDefined": false
+      },
+      {
+        "text": "hand flapping",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "rocking",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8ca1f05-4e4f-4250-a774-b8af7818fdf7",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "struggle with understanding spoken language",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "nonverbal cues",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad2485ed-353d-465e-94d1-3ced463a65e3",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "difficulty with verbal communication",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and expressing my thoughts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dba6f3f-fc9e-446e-a157-8e6e2b45d254",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "feel uncomfortable in social situations",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and often feel awkward",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17d5314e-db9f-45fb-a3a7-d8ecc15fa23d",
+    "data": [
+      {
+        "text": "I find it hard to understand ",
+        "userDefined": false
+      },
+      {
+        "text": "social cues",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "body language",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cd6fee4-873f-4a5f-9228-dd97b4183bf8",
+    "data": [
+      {
+        "text": "I\u0027ve been struggling with ",
+        "userDefined": false
+      },
+      {
+        "text": "social interactions",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "making friends",
+        "meta": "@AutismSpectrumDis_Symptoms",
+        "alias": "AutismSpectrumDis_Symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

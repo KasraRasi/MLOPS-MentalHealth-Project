@@ -1,0 +1,9 @@
+{
+  "id": "55615109-0f68-47ca-a89b-237423c408d8",
+  "name": "Anxiety_symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

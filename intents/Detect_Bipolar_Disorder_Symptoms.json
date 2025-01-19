@@ -1,0 +1,51 @@
+{
+  "id": "fa9b886a-61ee-4b66-a6bb-3d99c4aa58f1",
+  "name": "Detect_Bipolar_Disorder_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6615f6e4-9ac5-4030-a760-e8603c1a9d02",
+          "name": "bipolar_disorder_symptoms",
+          "required": false,
+          "dataType": "@Bipolar_Disorder_Symptoms",
+          "value": "$bipolar_disorder_symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you might be experiencing symptoms associated with Bipolar Disorder. Bipolar Disorder involves extreme mood swings that include manic episodes (highs) and depressive episodes (lows). It\u0027s important to seek professional help and support to manage these symptoms. Have you noticed any other patterns or challenges?",
+            "Thank you for confiding in me about your experiences. It\u0027s important to recognize these symptoms and seek support. Remember, your well-being is a priority, and there are avenues for help and healing. Whether it\u0027s therapy, medication, or lifestyle adjustments, there are paths toward managing Bipolar Disorder. You\u0027re not alone, and there\u0027s hope for a brighter tomorrow."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

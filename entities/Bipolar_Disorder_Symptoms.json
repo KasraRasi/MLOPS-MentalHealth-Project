@@ -1,0 +1,9 @@
+{
+  "id": "0785161f-6fe6-46d1-bc61-410508481ba9",
+  "name": "Bipolar_Disorder_Symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

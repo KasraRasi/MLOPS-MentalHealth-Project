@@ -1,0 +1,48 @@
+[
+  {
+    "value": "Low mood",
+    "synonyms": [
+      "Low mood",
+      "Sadness",
+      "Despair",
+      "Hopelessness",
+      "Melancholy",
+      "Gloom",
+      "Despondency"
+    ]
+  },
+  {
+    "value": "Loss of interest",
+    "synonyms": [
+      "Loss of interest",
+      "Lack of enthusiasm",
+      "Disinterest",
+      "Indifference",
+      "Anhedonia",
+      "Emptiness"
+    ]
+  },
+  {
+    "value": "Fatigue",
+    "synonyms": [
+      "Fatigue",
+      "Exhaustion",
+      "Weariness",
+      "Lethargy",
+      "Tiredness",
+      "Drained"
+    ]
+  },
+  {
+    "value": "Feelings of worthlessness",
+    "synonyms": [
+      "Feelings of worthlessness",
+      "Self-loathing",
+      "Self-doubt",
+      "Inadequacy",
+      "Worthlessness",
+      "Self-criticism",
+      "Guilt"
+    ]
+  }
+]

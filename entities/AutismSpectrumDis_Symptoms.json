@@ -1,0 +1,9 @@
+{
+  "id": "db7c7127-a476-4aa6-bc48-755d72e73bfd",
+  "name": "AutismSpectrumDis_Symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

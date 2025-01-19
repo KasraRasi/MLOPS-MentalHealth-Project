@@ -1,0 +1,146 @@
+[
+  {
+    "id": "38840b4f-dbb1-4b28-9c21-d0ad716b212f",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "always on the go",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": false
+      },
+      {
+        "text": " and find it hard to ",
+        "userDefined": false
+      },
+      {
+        "text": "sit still",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e184aa4-e0d0-479f-9cef-182df3d368a6",
+    "data": [
+      {
+        "text": "I have trouble ",
+        "userDefined": false
+      },
+      {
+        "text": "staying organized",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": true
+      },
+      {
+        "text": " and finishing tasks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a1e2d98-4939-46d7-84c0-c89958db0545",
+    "data": [
+      {
+        "text": "My mind ",
+        "userDefined": false
+      },
+      {
+        "text": "constantly jumps",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": true
+      },
+      {
+        "text": " from one thing to another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e23a6b46-507f-4c1a-9f0b-7b6f03dd3293",
+    "data": [
+      {
+        "text": "I keep making ",
+        "userDefined": false
+      },
+      {
+        "text": "impulsive",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": false
+      },
+      {
+        "text": " decisions without thinking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33ec495c-2bd2-4f70-ad18-6dca8b807b35",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "restless",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": false
+      },
+      {
+        "text": " and fidgety all the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35f16e69-2455-4400-b514-cfe63aa68c4a",
+    "data": [
+      {
+        "text": "I can\u0027t seem to ",
+        "userDefined": false
+      },
+      {
+        "text": "focus",
+        "meta": "@ADHD_Symptom",
+        "alias": "ADHD_Symptom",
+        "userDefined": true
+      },
+      {
+        "text": " on anything for too long",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

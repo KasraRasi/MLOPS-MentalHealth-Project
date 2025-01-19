@@ -1,0 +1,51 @@
+{
+  "id": "41d89958-e690-46ae-a53c-ce5bc411ab08",
+  "name": "Detect_Anxiety_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "945737cd-4665-4a9e-bec5-894db27dce4d",
+          "name": "anxiety_symptoms",
+          "required": false,
+          "dataType": "@Anxiety_symptoms",
+          "value": "$anxiety_symptoms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you might be experiencing symptoms associated with anxiety. It\u0027s important to acknowledge these feelings and explore strategies to manage them. Have you noticed any other symptoms or challenges?",
+            "Thank you for opening up about your experiences. It\u0027s courageous to acknowledge what you\u0027re going through. While it\u0027s understandable to feel overwhelmed, it\u0027s important to know that there are steps you can take to manage these symptoms. Remember, you\u0027re stronger than you think, and I\u0027m here to support you every step of the way."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "value": "Flashbacks",
+    "synonyms": [
+      "Flashbacks",
+      "Trauma recall",
+      "Intrusive memories",
+      "Re-experiencing",
+      "Recurrent recollections",
+      "Distressing memories",
+      "Traumatic flashbacks"
+    ]
+  },
+  {
+    "value": "Nightmares",
+    "synonyms": [
+      "Nightmares",
+      "Disturbing dreams",
+      "Night terrors",
+      "Sleep disturbances",
+      "Vivid nightmares",
+      "Recurrent bad dreams",
+      "Trauma-related nightmares"
+    ]
+  },
+  {
+    "value": "Avoidance",
+    "synonyms": [
+      "Avoidance",
+      "Escapism",
+      "Avoidant behavior",
+      "Emotional detachment",
+      "Social isolation",
+      "Evading triggers"
+    ]
+  },
+  {
+    "value": "Hyperarousal",
+    "synonyms": [
+      "Hyperarousal",
+      "Hypervigilance",
+      "Heightened alertness",
+      "Increased arousal",
+      "Overstimulation",
+      "Exaggerated startle response",
+      "Persistent anxiety"
+    ]
+  }
+]

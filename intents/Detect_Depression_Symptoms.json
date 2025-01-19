@@ -1,0 +1,65 @@
+{
+  "id": "59f2f9c2-222d-45a4-81bd-e546bd03aa65",
+  "name": "Detect_Depression_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db2a220e-112d-43d9-b1fc-df13052351bb",
+          "name": "bipolar_disorder_symptoms",
+          "required": false,
+          "dataType": "@Bipolar_Disorder_Symptoms",
+          "value": "$bipolar_disorder_symptoms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "251894c6-14e1-45ac-9597-7939b39abc87",
+          "name": "depression_symptoms",
+          "required": false,
+          "dataType": "@Depression_Symptoms",
+          "value": "$depression_symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you\u0027re experiencing symptoms that could be associated with depression. Depression is a serious mental health condition characterized by persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in activities you once enjoyed. It can affect various aspects of your life, including your mood, thoughts, behavior, and physical health. Depression can make it challenging to carry out daily tasks, maintain relationships, and focus on work or school. Have you noticed any other symptoms or changes in your behavior?",
+            "It\u0027s important to remember that you\u0027re not alone in your struggle with depression. Many people experience depression at some point in their lives, and seeking help is a sign of strength, not weakness. There are treatments available to help manage these symptoms and support you on your journey to recovery, including therapy, medication, lifestyle changes, or a combination of these approaches."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

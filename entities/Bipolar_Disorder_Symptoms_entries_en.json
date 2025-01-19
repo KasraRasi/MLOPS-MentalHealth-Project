@@ -1,0 +1,54 @@
+[
+  {
+    "value": "Mania",
+    "synonyms": [
+      "Mania",
+      "Elevated mood",
+      "High energy",
+      "Increased activity",
+      "Irritability",
+      "Overconfidence"
+    ]
+  },
+  {
+    "value": "Hypomania",
+    "synonyms": [
+      "Hypomania",
+      "Mild mania",
+      "Hypoactivity",
+      "Excitability",
+      "Rapid speech",
+      "Decreased need for sleep",
+      "Increased creativity",
+      "Heightened productivity"
+    ]
+  },
+  {
+    "value": "Depression",
+    "synonyms": [
+      "Depression",
+      "Low mood",
+      "Sadness",
+      "Hopelessness",
+      "Lack of energy",
+      "Fatigue",
+      "Loss of interest or pleasure",
+      "Sleep disturbances",
+      "Appetite changes",
+      "Feelings of worthlessness or guilt"
+    ]
+  },
+  {
+    "value": "Mixed episodes",
+    "synonyms": [
+      "Mixed episodes",
+      "Mood swings",
+      "Emotional instability",
+      "Rapid cycling",
+      "Combination of mania and depression symptoms",
+      "Irritability mixed with sadness",
+      "Racing thoughts alongside low energy",
+      "Agitation paired with feelings of hopelessness"
+    ]
+  }
+]

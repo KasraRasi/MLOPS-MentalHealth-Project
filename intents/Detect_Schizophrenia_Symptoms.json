@@ -1,0 +1,51 @@
+{
+  "id": "8075fc03-f2d5-4268-a3fd-2526dfc7354f",
+  "name": "Detect_Schizophrenia_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3fa4eb8a-0a58-487d-8fd5-36bcac3ec318",
+          "name": "schizophrenia_symptoms",
+          "required": false,
+          "dataType": "@Schizophrenia_Symptoms",
+          "value": "$schizophrenia_symptoms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you\u0027re experiencing symptoms that could be associated with Schizophrenia. Schizophrenia is a complex mental disorder that may involve hallucinations, delusions, and disorganized thinking. It\u0027s essential to seek professional help for accurate diagnosis and appropriate treatment. Have you noticed any other symptoms or changes in your behavior?",
+            "Thank you for sharing your experiences. It seems like you\u0027re grappling with symptoms that align with Schizophrenia. It\u0027s crucial to seek professional assistance promptly. Treatment options typically include a combination of antipsychotic medications, psychotherapy, and psychosocial interventions tailored to your needs. Remember, early intervention and ongoing support play a pivotal role in managing Schizophrenia effectively. You\u0027re not alone in this journey, and there\u0027s hope for improved well-being with the right treatment plan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Cravings",
+    "synonyms": [
+      "Cravings",
+      "Urges",
+      "Desires",
+      "Needs for substance"
+    ]
+  },
+  {
+    "value": "Withdrawal",
+    "synonyms": [
+      "Withdrawal",
+      "Crash",
+      "Detox symptoms",
+      "Physical dependence"
+    ]
+  },
+  {
+    "value": "Tolerance",
+    "synonyms": [
+      "Tolerance",
+      "Increased tolerance",
+      "Needing more of the substance",
+      "Diminished effect"
+    ]
+  },
+  {
+    "value": "Compulsive behavior",
+    "synonyms": [
+      "Compulsive behavior",
+      "Irresistible urge",
+      "Repetitive actions",
+      "Loss of control"
+    ]
+  }
+]

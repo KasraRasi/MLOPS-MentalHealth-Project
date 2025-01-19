@@ -1,0 +1,370 @@
+[
+  {
+    "id": "ca5ab206-229e-4f7f-9d4e-dd7d14028f2e",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "guilt",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "self-doubt",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0e9bdae-e8cb-4a32-8a4c-a90d52a7798f",
+    "data": [
+      {
+        "text": "I have a sense of ",
+        "userDefined": false
+      },
+      {
+        "text": "worthlessness",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "self-criticism",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cf9eac8-eb80-4a3c-a701-98ee499c3a1d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "doubt my own abilities",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and feel ",
+        "userDefined": false
+      },
+      {
+        "text": "inadequate",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bec49c8-6f03-49ee-86b4-e7d3d3fabea9",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "feelings of worthlessness",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "self-loathing",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9ea58c-a1df-4dfc-9e49-00f9782023b3",
+    "data": [
+      {
+        "text": "I\u0027m constantly tired and ",
+        "userDefined": false
+      },
+      {
+        "text": "drained",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "775e2305-01e1-4593-92d3-60cc104f5ef8",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "weary",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and lethargic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce615e47-f5a6-4c18-a203-7215d59a10df",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "fatigue",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "exhaustion",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3831045-b112-4e18-9499-5c6397599f59",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "empty",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and devoid of emotions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50560c24-4f09-4761-aca7-1685b983e4ba",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "disinterest",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "anhedonia",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b7795a-a518-4aa8-a435-b3e6a28c5828",
+    "data": [
+      {
+        "text": "I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "lack of enthusiasm",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and feel ",
+        "userDefined": false
+      },
+      {
+        "text": "indifferent",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ac1ffe1-9ec5-47f9-bda3-3d655103ff62",
+    "data": [
+      {
+        "text": "I\u0027ve ",
+        "userDefined": false
+      },
+      {
+        "text": "lost interest",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " in things I used to enjoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b85f20-75d3-4efc-9c98-560c077ef38f",
+    "data": [
+      {
+        "text": "I feel gloomy and ",
+        "userDefined": false
+      },
+      {
+        "text": "despondent",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec10a056-7533-4c62-b4e8-37a0db6290c7",
+    "data": [
+      {
+        "text": "I\u0027m struggling with ",
+        "userDefined": false
+      },
+      {
+        "text": "hopelessness",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "melancholy",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de61ee2-bc72-43ed-9803-46830101daa2",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "sadness",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "despair",
+        "meta": "@Depression_Symptoms",
+        "alias": "depression_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "402e2cf0-01f7-460f-8ab4-f8d88673f690",
+  "name": "Detect_PTSD_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46063027-e79c-484a-a467-5df20dcd8950",
+          "name": "ptsd_symptoms",
+          "required": false,
+          "dataType": "@PTSD_Symptoms",
+          "value": "$ptsd_symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7d673e45-fa52-41b2-857e-a7cf3f83991b",
+          "name": "bipolar_disorder_symptoms",
+          "required": false,
+          "dataType": "@Bipolar_Disorder_Symptoms",
+          "value": "$bipolar_disorder_symptoms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sounds like you\u0027re experiencing symptoms that could be associated with PTSD. PTSD, or Post-Traumatic Stress Disorder, is a mental health condition that can develop after experiencing a traumatic event. Symptoms such as flashbacks, nightmares, avoidance, and hyperarousal are common in individuals with PTSD. It\u0027s essential to seek support and guidance from mental health professionals who can provide appropriate treatment and coping strategies. You\u0027re not alone, and there are resources available to help you cope with these symptoms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

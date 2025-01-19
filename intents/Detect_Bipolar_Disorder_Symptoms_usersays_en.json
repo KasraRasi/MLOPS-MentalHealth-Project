@@ -1,0 +1,209 @@
+[
+  {
+    "id": "8a9d7ed7-8300-4361-aea0-eedbe750a376",
+    "data": [
+      {
+        "text": "I feel a ",
+        "userDefined": false
+      },
+      {
+        "text": "combination of mania and depression symptoms",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", with ",
+        "userDefined": false
+      },
+      {
+        "text": "racing thoughts alongside low energy",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c1921e8-21b1-4f50-a6c2-c0fbd0bf78ea",
+    "data": [
+      {
+        "text": "I\u0027m experiencing ",
+        "userDefined": false
+      },
+      {
+        "text": "mood swings",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "emotional instability",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf96be88-5eef-4370-81a3-6fff6a826482",
+    "data": [
+      {
+        "text": "I\u0027ve been feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "hopeless",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", with low energy and loss of interest in activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5295f30d-1a62-4593-afd4-dfeb849a24b6",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "irritable",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and agitated, with ",
+        "userDefined": false
+      },
+      {
+        "text": "heightened productivity",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6edbe3-0f75-4dc8-9c52-ed748131a61e",
+    "data": [
+      {
+        "text": "I\u0027ve noticed ",
+        "userDefined": false
+      },
+      {
+        "text": "rapid speech",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "decreased need for sleep",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25006a56-c121-42f0-a09c-49e33747374e",
+    "data": [
+      {
+        "text": "I\u0027m experiencing periods of ",
+        "userDefined": false
+      },
+      {
+        "text": "elevated mood",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "increased activity",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a94c614-2d63-4ffd-895d-47adb3e3f7e7",
+    "data": [
+      {
+        "text": "I\u0027ve been feeling really energetic lately, with ",
+        "userDefined": false
+      },
+      {
+        "text": "racing thoughts",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "overconfidence",
+        "meta": "@Bipolar_Disorder_Symptoms",
+        "alias": "bipolar_disorder_symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

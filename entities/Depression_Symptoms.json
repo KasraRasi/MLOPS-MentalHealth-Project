@@ -1,0 +1,9 @@
+{
+  "id": "03c120ff-8295-4908-9620-7441c32fa448",
+  "name": "Depression_Symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
